@@ -1,4 +1,4 @@
-# dypimca-sefm2020
+# dypimca-secure-mde-2020
 
 ## Requirements
 * Java v8.0
@@ -21,7 +21,7 @@
 
 ## How to edit the model:
 The model is located at 
->dypimca-sefm2020/plug-runtime-tsm/src/plug/language/tsm/examples/cta/
+>dypimca-secure-mde-2020/plug-runtime-tsm/src/plug/language/tsm/examples/cta/
 
 * Configuration.java contains variables
 * ExMain.java contains guarded-command declaration within execution units.
